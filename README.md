@@ -1,1 +1,1 @@
- I used Terraform to deploy my portfolio site on Cloudflare Pages.
+ I used Terraform to automate the deployment of my portfolio site on Cloudflare Pages.
