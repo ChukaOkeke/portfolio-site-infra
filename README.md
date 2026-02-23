@@ -1,1 +1,1 @@
-portfolio site deployment pipeline
+ I used Terraform to deploy my portfolio site on Cloudflare Pages.

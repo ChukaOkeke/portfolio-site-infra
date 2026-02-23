@@ -1,0 +1,11 @@
+.terraform/
+*.tfstate*
+.terraform.lock.hcl
+*.pem*
+*.tfvars*
+.venv
+.env
+*.plan
+*.json
+inventory.ini
+*.retry
